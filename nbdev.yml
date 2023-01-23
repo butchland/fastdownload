@@ -1,0 +1,9 @@
+project:
+  output-dir: docs
+
+website:
+  title: "fastdownload"
+  site-url: "https://fastdownload.fast.ai/"
+  description: "A general purpose data downloading library."
+  repo-branch: master
+  repo-url: "https://github.com/fastai/fastdownload/tree/master/"
